@@ -9,9 +9,13 @@
 - Guranteed homework help
 
 
- ###Photos
+ ### Photos
 
 ![Are you a potatoe?](https://user-images.githubusercontent.com/112235129/187077303-4143979d-bcc4-4f0c-9b3f-ce87164fb6a9.jpeg)
+
+Also please look at this squirrel
+![squrrel](https://user-images.githubusercontent.com/112235129/187093636-2d35559d-750f-4f4e-999c-53c09bceef2d.jpeg)
+
 
 ### Fun Links
 
