@@ -42,8 +42,9 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ![Are you a potatoe?](https://user-images.githubusercontent.com/112235129/187077303-4143979d-bcc4-4f0c-9b3f-ce87164fb6a9.jpeg)
 
-## Links to the unknown
+## Links to the unknown also heading 2
 Check out this hour long piano video [here](https://www.youtube.com/watch?v=Ot5zRrEYbps&t=2611s&ab_channel=marasy8)!
-If the exclamation point in after ^ or before the [link]!(https://pokemondb.net/type/fire)
+
+If the exclamation point in after ^ or before the [link](https://pokemondb.net/type/fire)
 
 # What does heading 1 look like?
